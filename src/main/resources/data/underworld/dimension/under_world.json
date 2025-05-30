@@ -1,0 +1,11 @@
+{
+  "type": "underworld:under_world",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "underworld:under_world",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "underworld:under_world"
+    }
+  }
+}
