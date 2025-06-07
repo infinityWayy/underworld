@@ -9,10 +9,10 @@ import java.awt.*;
 
 public class XBiomes {
 
-    public static final ResourceKey<Biome> MY_DIMENSION_BIOME_KEY = ResourceKey.create(Registries.BIOME, XDimensions.UNDER_WORLD);
+    public static final ResourceKey<Biome> UNDER_BIOME_KEY = ResourceKey.create(Registries.BIOME, XDimensions.UNDER_WORLD);
 
     public static void bootstrap(BootstrapContext<Biome> context) {
-        context.register(MY_DIMENSION_BIOME_KEY, createMyBiome(context));
+        context.register(UNDER_BIOME_KEY, createMyBiome(context));
     }
 
     private static Biome createMyBiome(BootstrapContext<Biome> context) {

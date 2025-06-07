@@ -52,7 +52,7 @@ public class XDimensions {
         context.register(ResourceKey.create(Registries.LEVEL_STEM, UNDER_WORLD),
                 new LevelStem(dimensionTypes.getOrThrow(UNDER_TYPE_KEY),
                         new NoiseBasedChunkGenerator(
-                                new FixedBiomeSource(biomes.getOrThrow(XBiomes.MY_DIMENSION_BIOME_KEY)),
+                                new FixedBiomeSource(biomes.getOrThrow(XBiomes.UNDER_BIOME_KEY)),
                                 noiseSettings.getOrThrow(UNDER_NOISE_SETTINGS_KEY)
                         )
                 )
