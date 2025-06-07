@@ -1,0 +1,8 @@
+// 1.21.1	2025-06-07T11:18:36.719343	Registries
+b78a0d9e4b4b2b4f2d2d92de6aacdad5ec5e1f32 data/underworld/dimension/under_world.json
+5a3a21c38247f6dd4d501557aaffb2494c85c7bc data/underworld/dimension_type/under_world.json
+00aedd9edd04ff67e530c0121bf35ae72edd1b25 data/underworld/worldgen/biome/under_world.json
+ed44740f99e475581b90ad9712ff82b736962599 data/underworld/worldgen/noise/underworld_1.json
+ed44740f99e475581b90ad9712ff82b736962599 data/underworld/worldgen/noise/underworld_2.json
+9968057bb8586e8f9383bdaa12dffb031eb2d7d8 data/underworld/worldgen/noise/underworld_selector.json
+e0d671160bd2f8852dc21eccf41dfe35eb3a2375 data/underworld/worldgen/noise_settings/under_world.json
